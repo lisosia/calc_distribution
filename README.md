@@ -1,11 +1,11 @@
 #### when to use
 when you can get and-search hit numbers
 
-|search query| hit number|
-|--|--|
-|a  |12|
-|b  |32|
-|a&b|4|
+|search query| hit number|  
+|--|--|  
+|a  |12|  
+|b  |32|  
+|a&b|4|  
 
 #### how to use
 
