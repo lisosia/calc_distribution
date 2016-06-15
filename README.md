@@ -35,6 +35,6 @@ cat input_opendata | ./c.rb
 ```
 
 ```
-cat input_opendata | ./c.rb | grep -E "0*10*<<tab>>"
+cat input_opendata | ./c.rb | grep -E "^0*10*<<tab>>"
 ```
 input `<<tab>>` by [ctrl-v  tab] in shell
